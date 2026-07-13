@@ -1,5 +1,5 @@
 <h1 align="center">🔧 Vérin Hydraulique — Rotary Hydraulic Actuator</h1>
-<h4 align="center">A Systems Engineering project — redesigning and optimizing a rotary hydraulic actuator for a teleoperated robotic arm — ESILV</h4>
+<h4 align="center">A Systems Engineering project — redesigning and optimizing a rotary hydraulic actuator for a teleoperated robotic arm — 
 
 <p align="center">
   <img width="756" height="567" alt="image" src="https://github.com/user-attachments/assets/1568826a-62e1-4887-976f-f1cbb6e49b13" />
