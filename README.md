@@ -14,8 +14,7 @@ This project applies a full **Systems Engineering** approach to a real industria
 These actuators equip the **MAESTRO** teleoperated arm, developed by the **CEA** (French Alternative Energies and Atomic Energy Commission) for **nuclear-dismantling** worksites, where radioactivity prevents human access. The mission: **rethink and optimize the actuator's design** to make it cheaper, more reliable and easier to maintain — without losing interchangeability with the existing fleet.
 
 <p align="center">
-  <img width="780" height="490" alt="image" src="https://github.com/user-attachments/assets/1b36589c-25d7-4671-a776-15a45feb71a8" />
-
+<img width="760" height="441" alt="image" src="https://github.com/user-attachments/assets/c6b10606-830f-4578-a0c6-0d8a6a122eff" />
   <br><sub><em>The MAESTRO teleoperated arm (CEA)</em></sub>
 </p>
 
