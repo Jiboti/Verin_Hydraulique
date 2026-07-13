@@ -2,7 +2,7 @@
 <h4 align="center">A Systems Engineering project — redesigning and optimizing a rotary hydraulic actuator for a teleoperated robotic arm — ESILV</h4>
 
 <p align="center">
-  <img src="images/verin-banner.jpg" alt="Rotary hydraulic actuator" width="600"/>
+  <img width="1036" height="815" alt="image" src="https://github.com/user-attachments/assets/3374c8a7-5724-40dd-93fe-312247d3fd2f" />
 </p>
 
 ---
@@ -14,7 +14,8 @@ This project applies a full **Systems Engineering** approach to a real industria
 These actuators equip the **MAESTRO** teleoperated arm, developed by the **CEA** (French Alternative Energies and Atomic Energy Commission) for **nuclear-dismantling** worksites, where radioactivity prevents human access. The mission: **rethink and optimize the actuator's design** to make it cheaper, more reliable and easier to maintain — without losing interchangeability with the existing fleet.
 
 <p align="center">
-  <img src="images/maestro-arm.jpg" alt="MAESTRO teleoperated arm" width="500"/>
+  <img width="218" height="138" alt="image" src="https://github.com/user-attachments/assets/53a1fe50-52dc-4bb4-962e-14e2877ac945" />
+
 </p>
 
 ## 🎯 Objectives
@@ -40,13 +41,20 @@ We modeled the actuator's main parts — the **shaft** and the **central body** 
 <p align="center">
   <img src="images/arbre-corps.jpg" alt="Shaft and central body modeled in CATIA V5" width="600"/>
 </p>
+<p align="center">
+<img width="953" height="679" alt="image" src="https://github.com/user-attachments/assets/51aa283c-55b8-4f76-9181-f793076e3f6c" />
+</p>
+
 
 **Phase 2 — Designing for lower fabrication cost.**
 The original shafts used **monobloc vanes machined by electro-erosion** — precise, but slow and expensive. We studied a new solution: **removable reported vanes** (*palettes rapportées*) attached to the shaft and bore, positioned and held by **pins** (sized by shear) and **screws** (sized by the tightening cone). This cuts machining cost, eases maintenance, and keeps a clean standardization by part family. All sizing was backed by **strength-of-materials calculations and FEA** (CATIA **ELFINI**), consolidated in **Excel** computation tables.
 
 <p align="center">
-  <img src="images/nouvelles-palettes.jpg" alt="Removable reported vanes concept" width="500"/>
-</p>
+  <img width="963" height="689" alt="image" src="https://github.com/user-attachments/assets/3625923f-c6e3-4357-a810-e2a53c60d07f" />
+</p> Arbre
+<p align="center">
+  <img width="1205" height="513" alt="image" src="https://github.com/user-attachments/assets/3e231b9a-822f-4898-a6d5-b8333e0f6466" />
+</p>  Palettev1
 
 ## 📈 Results
 
