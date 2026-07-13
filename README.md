@@ -41,15 +41,20 @@ The requirements analysis captured a demanding operating envelope: a **family of
 **Phase 1 — Parametric modeling in CATIA V5.**
 We modeled the actuator's main parts — the **shaft** and the **central body** — assembled them, then made the assembly **fully parametric**: using CATIA's *Knowledge* features, the transmitted torque drives the key dimensions through formulas, so a single model can generate the whole family of actuators. This is where the **standardization** goal took shape — one bearing reference validated across all torque versions, with a justified safety factor.
 
-<p align="center">
-<img width="336" height="429" alt="image" src="https://github.com/user-attachments/assets/b6eb3108-96f5-4c81-acfb-cc62946bd415" />
-</p>
+<img width="975" height="698" alt="image" src="https://github.com/user-attachments/assets/8b1e47cf-8def-47b4-be30-7f84c8f29413" />
+arbre
+
+<img width="1248" height="487" alt="image" src="https://github.com/user-attachments/assets/8449041f-e131-4c8b-a443-1723533187df" />
+corps central
 
 
 
 **Phase 2 — Designing for lower fabrication cost.**
 The original shafts used **monobloc vanes machined by electro-erosion** — precise, but slow and expensive. We studied a new solution: **removable reported vanes** (*palettes rapportées*) attached to the shaft and bore, positioned and held by **pins** (sized by shear) and **screws** (sized by the tightening cone). This cuts machining cost, eases maintenance, and keeps a clean standardization by part family. All sizing was backed by **strength-of-materials calculations and FEA** (CATIA **ELFINI**), consolidated in **Excel** computation tables.
 
+<p align="center">
+<img width="336" height="429" alt="image" src="https://github.com/user-attachments/assets/b6eb3108-96f5-4c81-acfb-cc62946bd415" />
+</p>
 
 ## 📈 Results
 
